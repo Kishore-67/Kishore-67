@@ -46,13 +46,13 @@ I am a dedicated and enthusiastic Computer Science Engineering student at Sri Es
 
 ## 🏆 Achievements
 
-- **LeetCode:** Max Rating - 1291 | Solved 140+ Problems [Profile Link]
-- **CodeChef:** Max Rating - 891 | 1 Star Coder | Best Global Rank: 157997 [Profile Link]
+- **LeetCode:** Max Rating - 1291 | Solved 140+ Problems [Profile Link](#)
+- **CodeChef:** Max Rating - 891 | 1 Star Coder | Best Global Rank: 157997 [Profile Link](#)
 - **Webathon:** Finalist in the Web Development Contest at Sri Eshwar College of Engineering (2024)
 - **Astrah2k24:** Secured First Prize in Project Expo at Karpagam Institute of Technology (2024)
 
 ## 📫 How to Reach Me
 
-- LinkedIn: www.linkedin.com/in/kishore-p-b2004l
-- GitHub:   https://github.com/Kishore-67/Kishore-67
-- Email:    kishore762k4@gmail.com
+- **LinkedIn:** [Kishore P on LinkedIn](#)
+- **GitHub:** [Kishore P on GitHub](#)
+- **Email:** kishore762k4@gmail.com
