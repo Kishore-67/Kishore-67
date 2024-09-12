@@ -1,4 +1,4 @@
-# Hello, I'm Kishore P! 👋
+# Hello, I'm Kishore! 👋
 
 ## 🌟 About Me
 
